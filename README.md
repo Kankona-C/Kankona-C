@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kankona Chowdhury
-- 💻 Currently studying at RCCIIT
+- 💻 Currently a sophomore at RCCIIT
 - 👀 I’m interested in web and app development
 - 🌱 I’m currently learning OOP
 - 📫 How to reach me kankona01chowdhury@gmail.com
