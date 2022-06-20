@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kankona Chowdhury
 - 💻 Currently a sophomore at Dept. of Computer Science & Engineering, RCCIIT
 - 👀 I’m interested in Web and App development
-- 🌱 I’m currently learning OOP
+- 🌱 I’m currently learning - **Java** & **React JS**
 - 📫 How to reach me kankona01chowdhury@gmail.com
 
 <!---
